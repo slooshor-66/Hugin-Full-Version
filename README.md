@@ -240,3 +240,6 @@ This repository serves as the official landing page for Hugin. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Hugin today!**
+
+---
+**Last updated:** 2026-09-11 12:30:10 UTC
