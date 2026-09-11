@@ -1,0 +1,1 @@
+# Hugin-Full-Version
