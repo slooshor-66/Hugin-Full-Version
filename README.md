@@ -242,4 +242,4 @@ This repository serves as the official landing page for Hugin. The software is d
 **Get the most recent version of Hugin today!**
 
 ---
-**Last updated:** 2026-09-18 02:41:04 UTC
+**Last updated:** 2026-09-18 07:51:42 UTC
